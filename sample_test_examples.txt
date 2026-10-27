@@ -1,0 +1,14 @@
+Assignment 2 sample run checklist
+Student: Yashvardhansinh Parmar
+Enrollment: 12402080601159
+
+1. Run: python test_examples.py
+   Expected: 7 smoke tests pass.
+2. Run: python 12402080601159_Assignment2_Q1.py
+   Expected: email addresses and domain counts are printed.
+3. Run: python 12402080601159_Assignment2_Q6.py
+   Expected: sliding-window anomaly findings are printed.
+4. Run: python 12402080601159_Assignment2_Q8.py
+   Expected: minimum path cost and cell coordinates are printed.
+5. Optional: install matplotlib and run 12402080601159_Assignment2_Q10.py
+   Expected: dashboard.png is created.
